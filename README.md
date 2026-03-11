@@ -9,5 +9,5 @@
 ## ⚒ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,js,html,css" />
 </p>
